@@ -19,7 +19,20 @@ Results show that our best model significantly surpasses the prior state-of-the-
 Furthermore, we conduct thorough ablation studies to analyze the effectiveness of various modality fusion methods and fusion locations.
 
 If you work is inspired by our paper or code, please cite it, thanks!
-
 <pre>
 TODO
 </pre>
+
+## Evaluation
+We release the generated summaries from different models in ```./evaluation/results```. All the evaluation metrics can be computed following ```./evaluation/README.md```.
+
+## Prepare dataset
+You can go to How2 dataset [Github](https://github.com/srvk/how2-dataset) to get the dataset. We recommend you to choose the (option 1): Download a pre-packaged version.
+
+## Run fine-tuning
++ make directory for saving lightning logs: ```mkdir lightning_logs```
++ An example of running Bart text only model: ```./scripts/Bart_text_only.sh```
++ An example of running Bart multimodal model: ```./scripts/Bart_multimodal.sh```
+
+## Run inference
++ An example of running Bart multimodal model: ```./scripts/test_Bart_multimodal.sh```
