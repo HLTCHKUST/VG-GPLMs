@@ -7,7 +7,7 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-[[Paper]](TODO) accepted at the EMNLP 2021:
+[[Paper]](https://arxiv.org/abs/2109.02401) accepted at the EMNLP 2021:
 
 **Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization**, by [Tiezheng Yu *](https://tysonyu.github.io), [Wenliang Dai *](https://wenliangdai.github.io/), [Zihan Liu](https://zliucr.github.io/), [Pascale Fung](https://pascale.home.ece.ust.hk).
 
