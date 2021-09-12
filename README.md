@@ -20,7 +20,12 @@ Furthermore, we conduct thorough ablation studies to analyze the effectiveness o
 
 If you work is inspired by our paper or code, please cite it, thanks!
 <pre>
-TODO
+@article{yu2021vision,
+  title={Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization},
+  author={Yu, Tiezheng and Dai, Wenliang and Liu, Zihan and Fung, Pascale},
+  journal={arXiv preprint arXiv:2109.02401},
+  year={2021}
+}
 </pre>
 
 ## Evaluation
